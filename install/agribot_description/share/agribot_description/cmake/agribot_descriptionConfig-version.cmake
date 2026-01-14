@@ -1,0 +1,1 @@
+/home/semegn/agribot_ws/build/agribot_description/ament_cmake_core/agribot_descriptionConfig-version.cmake

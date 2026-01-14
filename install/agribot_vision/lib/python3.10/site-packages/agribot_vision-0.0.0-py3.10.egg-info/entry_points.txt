@@ -1,0 +1,3 @@
+[console_scripts]
+detect_disease = agribot_vision.detect_disease:main
+
