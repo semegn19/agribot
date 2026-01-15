@@ -1,15 +1,15 @@
-# AgriBot-ET 🚜🌾  
+# AgriBot 🚜🌾  
 ROS-Based Autonomous Crop Monitoring and Disease Detection for Precision Agriculture in Ethiopia
 
 ## Overview
 
-AgriBot-ET is a **ROS-based autonomous field robot** simulated in Gazebo that navigates crop rows, detects unhealthy plants using YOLOv8, and logs detections with spatial coordinates for targeted treatment. 
+AgriBot is a **ROS-based autonomous field robot** simulated in Gazebo that navigates crop rows, detects unhealthy plants using YOLOv8, and logs detections with spatial coordinates for targeted treatment. 
 
 Core capabilities:
 
 - Autonomous navigation in crop rows using the ROS Navigation Stack (SLAM + AMCL). 
 - Real-time plant health detection (healthy vs. diseased) using YOLOv8. 
-- CSV-based logging of diseased plant coordinates with confidence scores.  
+- CSV-based logging of diseased plant coordinates.
 
 ***
 
